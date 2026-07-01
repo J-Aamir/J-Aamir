@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Javeria Aamir
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=AI+%2F+ML+at+the+intersection+of+Medicine+%26+Biology;Building+Applied+LLM+Pipelines;Data+Analysis+%7C+Bioinformatics+%7C+Linux+CLI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=10B981&center=true&vCenter=true&width=680&lines=AI+%2F+ML+at+the+intersection+of+Medicine+%26+Biology;Building+Applied+LLM+Pipelines;Data+Analysis+%7C+Bioinformatics+%7C+Linux+CLI)](https://git.io/typing-svg)
 
 ---
 
@@ -52,12 +52,12 @@ I'm a passionate researcher and developer working in AI and Machine Learning at 
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J-Aamir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&icon_color=D85A30&text_color=c9d1d9" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Aamir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=J-Aamir&show_icons=true&theme=vue&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Aamir&layout=compact&theme=vue&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=J-Aamir&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=J-Aamir&theme=vue&hide_border=true&background=0d1117&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="GitHub Streak" />
 </p>
 
 ---
@@ -115,7 +115,7 @@ I'm a passionate researcher and developer working in AI and Machine Learning at 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://huggingface.co/J-Aamir">
-    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging_Face-FFA800?style=for-the-badge" alt="HuggingFace" />
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging_Face-10B981?style=for-the-badge" alt="HuggingFace" />
   </a>
 </p>
 
@@ -126,5 +126,5 @@ I'm a passionate researcher and developer working in AI and Machine Learning at 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=J-Aamir&color=D85A30&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=J-Aamir&color=10B981&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
