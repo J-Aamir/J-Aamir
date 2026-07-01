@@ -27,7 +27,7 @@ I'm a passionate researcher and developer working in AI and Machine Learning at 
 
 ## 🔥 MORE PROJECTS
 
-| 🔬 **[RAG Research Assistant](https://github.com/J-Aamir)** | 🏥 **[DICOM Anonymizer](https://github.com/J-Aamir/DICOM-anonymizer)** | 🧬 **[Crohn's Expression Pipeline](https://github.com/J-Aamir/rstudio-crohns-gene-expression)** |
+| 🔬 **[RAG Research Assistant](https://github.com/J-Aamir/Sysreview)** | 🏥 **[DICOM Anonymizer](https://github.com/J-Aamir/DICOM-anonymizer)** | 🧬 **[Crohn's Expression Pipeline](https://github.com/J-Aamir/rstudio-crohns-gene-expression)** |
 |---|---|---|
 | Built an academic RAG web app using Streamlit, Groq (Llama 3.3), and FAISS for semantic similarity search over reference literature. | Developed a Python tool to parse and anonymize patient metadata fields inside DICOM imaging files for research compliance. | Automated RNA-Seq data analytics using DESeq2 in R, rendering PCA plots and volcano diagrams for gene tracking. |
 | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![R](https://img.shields.io/badge/R_Studio-276DC3?style=flat-square&logo=r&logoColor=white) |
