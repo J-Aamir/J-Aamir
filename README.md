@@ -49,11 +49,13 @@ I'm a passionate researcher and developer working in AI and Machine Learning at 
 
 ---
 
+---
+
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J-Aamir&show_icons=true&theme=vue&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Aamir&layout=compact&theme=vue&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-stats-six.vercel.app/api?username=J-Aamir&show_icons=true&theme=vue&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-six.vercel.app/api/top-langs/?username=J-Aamir&layout=compact&theme=vue&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -64,7 +66,7 @@ I'm a passionate researcher and developer working in AI and Machine Learning at 
 
 ## 🐍 CONTRIBUTION SNAKE
 
-![github contribution grid snake animation](https://github.com/J-Aamir/J-Aamir/raw/output/github-contribution-grid-snake-dark.svg)
+![github contribution grid snake animation](https://github.com/J-Aamir/J-Aamir/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
