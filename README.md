@@ -51,6 +51,8 @@ I'm a passionate researcher and developer working in AI and Machine Learning at 
 
 ---
 
+---
+
 ## 📊 GITHUB STATS
 
 <p align="center">
