@@ -1,204 +1,130 @@
-# 🎨 GitHub Revamp - Profile README Template
+# Hi there! 👋 I'm Javeria Aamir
 
-> Create an awesome GitHub profile README in minutes! Clone, customize, and showcase your projects with style.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/gulglitch/github-revamp?style=flat-square)](https://github.com/gulglitch/github-revamp/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/gulglitch/github-revamp?style=flat-square)](https://github.com/gulglitch/github-revamp/network)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=AI+%2F+ML+at+the+intersection+of+Medicine+%26+Biology;Building+Applied+LLM+Pipelines;Data+Analysis+%7C+Bioinformatics+%7C+Linux+CLI)](https://git.io/typing-svg)
 
 ---
 
-## 🌟 What is This?
+## 👨‍💻 About Me
 
-**GitHub Revamp** is a ready-to-use GitHub profile README template that helps you create a professional and eye-catching profile in minutes. No coding required - just clone, replace placeholders, and push!
+I'm a passionate researcher and developer working in AI and Machine Learning at the intersection of medicine, biology, and computational data science.
 
-### ✨ Features
-
-- 🎯 **Easy to use** - Just replace placeholders with your info
-- 🐍 **Animated contribution snake** - GitHub Actions included
-- 📊 **GitHub stats cards** - Automatically updated
-- 🎨 **Fully customizable** - Colors, themes, sections
-- 📱 **Responsive design** - Looks great on all devices
-- 🚀 **Zero dependencies** - Pure markdown, no build process
+- 🔭 Currently learning and building: **Applied LLM alignment architectures (SFT/DPO), RAG frameworks, and high-throughput biomedical pipelines.**
+- 🎮 Deeply involved in **Linux CLI automation (Bash scripting, awk, grep, sed)** for high-density dataset cleanup.
+- 🤖 Specialized in **Biomedical Data Engineering**, managing everything from clinical DICOM image sets to genomic variant expression data.
+- 📱 Proficient in running extensive predictive analytics, hypothesis testing, and regressions using **SPSS, R Studio, Python, and MATLAB**.
+- 💼 Open to collaboration and opportunities
+- 🧠 Interested in: **Large Language Models, Clinical Data Analytics, and Bioinformatics**
 
 ---
 
-## 📸 Preview
+## ⭐ LATEST PROJECTS
 
-Check out the live example: [github.com/gulglitch](https://github.com/gulglitch)
-
----
-
-## 🚀 Quick Start
-
-### 1️⃣ Create Your Profile Repository
-
-Your repository must be named **exactly** as your GitHub username:
-- Username: `john-doe` → Repository: `john-doe/john-doe`
-
-### 2️⃣ Clone This Template
-
-```bash
-git clone https://github.com/gulglitch/github-revamp.git [your-username]
-cd [your-username]
-```
-
-### 3️⃣ Change Remote URL
-
-```bash
-git remote remove origin
-git remote add origin https://github.com/[YOUR-USERNAME]/[YOUR-USERNAME].git
-```
-
-### 4️⃣ Customize Your Profile README
-
-Rename the template file:
-```bash
-# On Windows (cmd)
-move PROFILE_TEMPLATE.md README.md
-
-# On Windows (PowerShell) / macOS / Linux
-mv PROFILE_TEMPLATE.md README.md
-```
-
-Open `README.md` and replace all placeholders:
-- `[YOUR_NAME]` → Your name
-- `[YOUR_USERNAME]` → Your GitHub username
-- `[YOUR_EMAIL]` → Your email
-- `[YOUR_TAGLINE_X]` → Your taglines
-- And more...
-
-### 5️⃣ Push to GitHub
-
-```bash
-git add .
-git commit -m "Initial profile setup"
-git push -u origin main
-```
-
-### 6️⃣ Enable GitHub Actions
-
-1. Go to your repository settings
-2. Settings → Actions → General
-3. Enable "Read and write permissions"
-4. Save
-
-**Done!** Visit `github.com/[your-username]` to see your profile 🎉
+| 🤖 **Financial-LLM-Alignment** | 📜 **GPT2-Australian-Legal-Pretraining** |
+|---|---|
+| **[Financial LLM Alignment: Curriculum SFT & DPO](https://github.com/J-Aamir/FineTuned-Finance-Models-Evaluation-using-Judge)**<br/>Engineered a Mistral-Nemo-12B model using multi-stage Curriculum SFT and DPO via QLoRA. Reached 93% parity with a 32B model, dropping training loss to 0.1869. Structured an automated LLM-as-a-Judge system using Llama-3.3-70B. <br/><br/>![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Transformers-Orange?style=flat-square) | **[Pre-trained GPT-2 from Scratch](https://github.com/J-Aamir/Domain-Specific-GPT2-Pretraining-Australian-Legal-Corpus)**<br/>Extracted and cleaned a 44.4M token corpus using Linux CLI tools. Pre-trained a 124M parameter GPT-2 architecture on a Tesla T4 GPU, optimizing via Gradient Accumulation to handle OOM constraints. <br/><br/>![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Linux Bash](https://img.shields.io/badge/Linux_CLI-4EAA25?style=flat-square&logo=linux&logoColor=white) |
 
 ---
 
-## 📚 Full Documentation
+## 🔥 MORE PROJECTS
 
-For detailed setup instructions, customization options, and troubleshooting, see:
+| 🔬 **[RAG Research Assistant](https://github.com/J-Aamir)** | 🏥 **[DICOM Anonymizer](https://github.com/J-Aamir/DICOM-anonymizer)** | 🧬 **[Crohn's Expression Pipeline](https://github.com/J-Aamir/rstudio-crohns-gene-expression)** |
+|---|---|---|
+| Built an academic RAG web app using Streamlit, Groq (Llama 3.3), and FAISS for semantic similarity search over reference literature. | Developed a Python tool to parse and anonymize patient metadata fields inside DICOM imaging files for research compliance. | Automated RNA-Seq data analytics using DESeq2 in R, rendering PCA plots and volcano diagrams for gene tracking. |
+| ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![R](https://img.shields.io/badge/R_Studio-276DC3?style=flat-square&logo=r&logoColor=white) |
 
-👉 **[SETUP_GUIDE.md](SETUP_GUIDE.md)**
+| 📊 **[Titanic Data EDA](https://github.com/J-Aamir/Titanic_Data)** | 🧮 **[Clinical Predictors Model](https://github.com/J-Aamir)** |
+|---|---|
+| Exploratory Data Analysis framework on demographic datasets to structure features for machine learning pipelines. | Statistical multivariate analysis evaluating Triphasic CECT Imaging Predictors in TACE treated HCC patients using regression. |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![SPSS](https://img.shields.io/badge/SPSS_/_Minitab-0073AA?style=flat-square) |
 
----
-
-## 🎨 What's Included?
-
-### Sections in the Template:
-
-1. **Animated Header** - Dynamic typing effect with your taglines
-2. **About Me** - Introduction and interests
-3. **Latest Projects** - Showcase your top 2 projects with tech badges
-4. **More Projects** - Grid layout for up to 9 projects
-5. **Highlights** - Key achievements or focus areas
-6. **GitHub Stats** - Auto-generated stats, languages, and streak
-7. **Contribution Snake** - Animated contribution graph
-8. **Tech Stack** - Categorized technology badges
-9. **Connect With Me** - Social media links
-10. **Profile Views Counter** - Track your profile visitors
-
-### Files Included:
-
-```
-github-revamp/
-├── README.md                          # About this template (you're reading it!)
-├── PROFILE_TEMPLATE.md                # Your profile README template (rename to README.md)
-├── SETUP_GUIDE.md                     # Detailed setup instructions
-└── .github/
-    └── workflows/
-        └── snake.yml                  # Contribution snake animation
-```
+> 👉 See pinned repos below for live demos and code!
 
 ---
 
-## 🎯 Customization Tips
+## 🏆 HIGHLIGHTS
 
-### Change Accent Color
-
-Replace `D85A30` (orange) with your preferred color:
-- Blue: `3B82F6`
-- Green: `10B981`
-- Purple: `8B5CF6`
-- Red: `EF4444`
-
-### Add More Tech Badges
-
-Visit [shields.io](https://shields.io/) and [simpleicons.org](https://simpleicons.org/)
-
-Format:
-```markdown
-![Name](https://img.shields.io/badge/Name-HexColor?style=flat-square&logo=logoname&logoColor=white)
-```
-
-### Change Stats Theme
-
-Available themes: `tokyonight`, `dark`, `radical`, `gruvbox`, `dracula`, `monokai`, `vue`, `onedark`, `cobalt`, `nightowl`
-
-Replace `theme=tokyonight` in the stats URLs.
+| 🧠 Generative AI | 🏥 Medical Imaging | 🧬 Bioinformatics | 🚀 Model Alignment |
+|---|---|---|---|
+| Certified GenAI Dev via HEC-NCEAC (LLMs, RAG, Semantic Search, Agents) | Extensive trainee practice with PACS, DICOM systems, and 3D reconstruction tools | Grad coursework in NGS, Data Analysis, and Neural Networks at NUST | Hands-on execution of SFT, DPO, and automated LLM-as-a-Judge benchmarking |
 
 ---
 
-## 🤝 Contributing
+## 📊 GITHUB STATS
 
-Contributions are welcome! If you have ideas for improvements:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=J-Aamir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&icon_color=D85A30&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Aamir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&text_color=c9d1d9" alt="Top Languages" />
+</p>
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=J-Aamir&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 💡 Inspiration
+## 🐍 CONTRIBUTION SNAKE
 
-This template was inspired by the need for an easy, customizable GitHub profile README that anyone can use without complex setup or dependencies.
-
----
-
-## 🙏 Acknowledgments
-
-- [GitHub README Stats](https://github.com/anuraghazra/github-readme-stats) by anuraghazra
-- [Contribution Snake](https://github.com/Platane/snk) by Platane
-- [Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) by DenverCoder1
-- [Shields.io](https://shields.io/) for badges
-- [Simple Icons](https://simpleicons.org/) for logo icons
+![github contribution grid snake animation](https://github.com/J-Aamir/J-Aamir/raw/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-## ⭐ Show Your Support
+## 🛠 TECH STACK
 
-If this template helped you create an awesome GitHub profile, please give it a star! ⭐
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=flat-square&logo=mathworks&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+**Frameworks & Libraries**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFA800?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Research & Analytics Software**
+
+![SPSS](https://img.shields.io/badge/SPSS-0073AA?style=flat-square&logo=ibm&logoColor=white)
+![Minitab](https://img.shields.io/badge/Minitab-0098A6?style=flat-square)
+![GraphPad Prism](https://img.shields.io/badge/GraphPad_Prism-004B87?style=flat-square)
+![3D Slicer](https://img.shields.io/badge/3D_Slicer-339933?style=flat-square)
+
+**Developer Tools**
+
+![Linux CLI](https://img.shields.io/badge/Linux_CLI-4EAA25?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📫 Contact
+## 📫 CONNECT WITH ME
 
-**Gul e Zara** - [@gulglitch](https://github.com/gulglitch)
-
-Project Link: [https://github.com/gulglitch/github-revamp](https://github.com/gulglitch/github-revamp)
+<p align="center">
+  <a href="https://github.com/J-Aamir">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:ma.javeria2111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/javeriaaamirpk/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://huggingface.co/J-Aamir">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging_Face-FFA800?style=for-the-badge" alt="HuggingFace" />
+  </a>
+</p>
 
 ---
 
-**Made with ❤️ for the developer community**
+<p align="center">
+  <i>"Bridging clinical datasets and computational models to uncover deeper bio-medical insights."</i>
+</p>
 
-*Happy profiling! 🚀*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=J-Aamir&color=D85A30&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
