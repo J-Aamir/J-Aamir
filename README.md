@@ -56,12 +56,12 @@ I'm a passionate researcher and developer working in AI and Machine Learning at 
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats-six.vercel.app/api?username=J-Aamir&show_icons=true&theme=vue&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-six.vercel.app/api/top-langs/?username=J-Aamir&layout=compact&theme=vue&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-stats-six.vercel.app/api?username=J-Aamir&show_icons=true&theme=vue&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-six.vercel.app/api/top-langs/?username=J-Aamir&layout=compact&theme=vue&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=c9d1d9" alt="Top Languages" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=J-Aamir&theme=vue&hide_border=true&background=0d1117&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=J-Aamir&theme=vue&hide_border=true&background=0d1117&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="GitHub Streak" height="150" />
 </p>
 
 ---
