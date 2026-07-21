@@ -27,18 +27,17 @@ I'm a passionate researcher and developer working in AI and Machine Learning at 
 
 ## 🔥 MORE PROJECTS
 
-| 🔬 **[RAG Research Assistant](https://github.com/J-Aamir/Sysreview)** | 🏥 **[DICOM Anonymizer](https://github.com/J-Aamir/DICOM-anonymizer)** | 🧬 **[Crohn's Expression Pipeline](https://github.com/J-Aamir/rstudio-crohns-gene-expression)** |
+| 🩺 **[BreastMNIST ResNet18 + Grad-CAM](https://github.com/J-Aamir/BreastMNIST-ResNet18-GradCAM)** | 🔬 **[RAG Research Assistant](https://github.com/J-Aamir/Sysreview)** | 🏥 **[DICOM Anonymizer](https://github.com/J-Aamir/DICOM-anonymizer)** |
 |---|---|---|
-| Built an academic RAG web app using Streamlit, Groq (Llama 3.3), and FAISS for semantic similarity search over reference literature. | Developed a Python tool to parse and anonymize patient metadata fields inside DICOM imaging files for research compliance. | Automated RNA-Seq data analytics using DESeq2 in R, rendering PCA plots and volcano diagrams for gene tracking. |
-| ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![R](https://img.shields.io/badge/R_Studio-276DC3?style=flat-square&logo=r&logoColor=white) |
+| Developed an end-to-end **Computer Vision** pipeline for breast ultrasound classification using **Transfer Learning (ResNet18)**. Implemented **Grad-CAM Explainable AI**, comprehensive evaluation metrics, and detailed error analysis for medical image interpretation. | Built an academic RAG web app using Streamlit, Groq (Llama 3.3), and FAISS for semantic similarity search over reference literature. | Developed a Python application for anonymizing patient metadata within DICOM files while preserving image integrity for research use. |
+| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-CNN-blue?style=flat-square) ![Grad-CAM](https://img.shields.io/badge/XAI-GradCAM-orange?style=flat-square) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
-| 📊 **[Titanic Data EDA](https://github.com/J-Aamir/Titanic_Data)** | 🧮 **[Clinical Predictors Model](https://github.com/J-Aamir)** |
-|---|---|
-| Exploratory Data Analysis framework on demographic datasets to structure features for machine learning pipelines. | Statistical multivariate analysis evaluating Triphasic CECT Imaging Predictors in TACE treated HCC patients using regression. |
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![SPSS](https://img.shields.io/badge/SPSS_/_Minitab-0073AA?style=flat-square) |
+| 🧬 **[Crohn's Expression Pipeline](https://github.com/J-Aamir/rstudio-crohns-gene-expression)** | 📊 **[Titanic Data EDA](https://github.com/J-Aamir/Titanic_Data)** | 🧮 **[Clinical Predictors Model](https://github.com/J-Aamir)** |
+|---|---|---|
+| Automated RNA-Seq differential gene expression analysis using DESeq2, PCA visualization, and volcano plots for transcriptomic research. | Exploratory data analysis and feature engineering pipeline using Python, Pandas, and visualization libraries. | Statistical analysis of Triphasic CECT imaging predictors in TACE-treated HCC patients using SPSS and multivariate regression. |
+| ![R](https://img.shields.io/badge/R_Studio-276DC3?style=flat-square&logo=r&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![SPSS](https://img.shields.io/badge/SPSS-0073AA?style=flat-square) |
 
-> 👉 See pinned repos below for live demos and code!
-
+> 👉 See pinned repositories below for complete documentation, notebooks, and implementation details.
 ---
 
 ## 🏆 HIGHLIGHTS
